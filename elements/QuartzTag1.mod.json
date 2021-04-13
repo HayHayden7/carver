@@ -1,0 +1,113 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:QuartzArray"
+      },
+      {
+        "value": "CUSTOM:QuartzBraid"
+      },
+      {
+        "value": "CUSTOM:QuartzBricks"
+      },
+      {
+        "value": "CUSTOM:QuartzCeltic"
+      },
+      {
+        "value": "CUSTOM:QuartzCircular"
+      },
+      {
+        "value": "CUSTOM:QuartzCracked"
+      },
+      {
+        "value": "CUSTOM:QuartzCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:QuartzCuts"
+      },
+      {
+        "value": "CUSTOM:QuartzDent"
+      },
+      {
+        "value": "CUSTOM:QuartzDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:QuartzEncasedBricks"
+      },
+      {
+        "value": "CUSTOM:QuartzFrench1"
+      },
+      {
+        "value": "CUSTOM:QuartzFrench2"
+      },
+      {
+        "value": "CUSTOM:QuartzJellybean"
+      },
+      {
+        "value": "CUSTOM:QuartzLargeTile"
+      },
+      {
+        "value": "CUSTOM:QuartzLayer"
+      },
+      {
+        "value": "CUSTOM:QuartzMosaic"
+      },
+      {
+        "value": "CUSTOM:QuartzOrnate"
+      },
+      {
+        "value": "CUSTOM:QuartzPanel"
+      },
+      {
+        "value": "CUSTOM:QuartzPillar"
+      },
+      {
+        "value": "CUSTOM:QuartzPrism"
+      },
+      {
+        "value": "CUSTOM:QuartzRaw"
+      },
+      {
+        "value": "CUSTOM:QuartzRoad"
+      },
+      {
+        "value": "CUSTOM:QuartzSlanted"
+      },
+      {
+        "value": "CUSTOM:QuartzSmallBricks"
+      },
+      {
+        "value": "CUSTOM:QuartzSmallDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:QuartzSmallTiles"
+      },
+      {
+        "value": "CUSTOM:QuartzTroddenBricks"
+      },
+      {
+        "value": "CUSTOM:QuartzTwisted"
+      },
+      {
+        "value": "CUSTOM:QuartzWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:QuartzWideBricks"
+      },
+      {
+        "value": "CUSTOM:QuartzZag"
+      },
+      {
+        "value": "Blocks.QUARTZ_BLOCK#3"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_quartz",
+    "namespace": "mod"
+  }
+}

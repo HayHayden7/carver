@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/quartz_twisted-top",
+    "up": "carver:blocks/quartz_twisted-top",
+    "north": "carver:blocks/quartz_twisted-side",
+    "east": "carver:blocks/quartz_twisted-side",
+    "south": "carver:blocks/quartz_twisted-side",
+    "west": "carver:blocks/quartz_twisted-side",
+    "particle": "carver:blocks/quartz_twisted-top"
+  }
+}

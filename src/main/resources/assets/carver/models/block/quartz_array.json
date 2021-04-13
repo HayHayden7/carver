@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/quartz_array",
+    "up": "carver:blocks/quartz_array",
+    "north": "carver:blocks/quartz_array",
+    "east": "carver:blocks/quartz_array",
+    "south": "carver:blocks/quartz_array",
+    "west": "carver:blocks/quartz_array",
+    "particle": "carver:blocks/quartz_array"
+  }
+}

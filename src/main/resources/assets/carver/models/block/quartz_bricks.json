@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/quartz_bricks-solid",
+    "particle": "carver:blocks/quartz_bricks-solid"
+  }
+}

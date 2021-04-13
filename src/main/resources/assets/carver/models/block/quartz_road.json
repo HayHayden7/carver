@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/quartz_road",
+    "particle": "carver:blocks/quartz_road"
+  }
+}

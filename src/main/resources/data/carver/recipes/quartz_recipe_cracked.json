@@ -1,0 +1,9 @@
+{
+  "group": "carver",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "carver:carved_quartz"
+  },
+  "result": "carver:quartz_cracked"
+}
