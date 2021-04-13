@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/endstone_bricks-solid",
+    "particle": "carver:blocks/endstone_bricks-solid"
+  }
+}

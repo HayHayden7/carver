@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/endstone_french-1",
+    "particle": "carver:blocks/endstone_french-1"
+  }
+}

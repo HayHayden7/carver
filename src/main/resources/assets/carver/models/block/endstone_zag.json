@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/endstone_zag",
+    "up": "carver:blocks/endstone_zag",
+    "north": "carver:blocks/endstone_zag",
+    "east": "carver:blocks/endstone_zag",
+    "south": "carver:blocks/endstone_zag",
+    "west": "carver:blocks/endstone_zag",
+    "particle": "carver:blocks/endstone_zag"
+  }
+}

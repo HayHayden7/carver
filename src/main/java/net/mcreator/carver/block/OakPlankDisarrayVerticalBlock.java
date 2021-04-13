@@ -48,7 +48,7 @@ public class OakPlankDisarrayVerticalBlock extends CarverModElements.ModElement 
 		@OnlyIn(Dist.CLIENT)
 		public void addInformation(ItemStack itemstack, IBlockReader world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Disarray Vertical"));
+			list.add(new StringTextComponent("Disarray Horizontal"));
 		}
 
 		@Override

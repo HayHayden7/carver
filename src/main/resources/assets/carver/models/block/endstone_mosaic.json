@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/endstone_mosaic",
+    "up": "carver:blocks/endstone_mosaic",
+    "north": "carver:blocks/endstone_mosaic",
+    "east": "carver:blocks/endstone_mosaic",
+    "south": "carver:blocks/endstone_mosaic",
+    "west": "carver:blocks/endstone_mosaic",
+    "particle": "carver:blocks/endstone_mosaic"
+  }
+}

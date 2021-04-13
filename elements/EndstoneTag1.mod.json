@@ -1,0 +1,116 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EndstoneArray"
+      },
+      {
+        "value": "CUSTOM:EndstoneBraid"
+      },
+      {
+        "value": "CUSTOM:EndstoneCeltic"
+      },
+      {
+        "value": "CUSTOM:EndstoneCircular"
+      },
+      {
+        "value": "CUSTOM:EndstoneCracked"
+      },
+      {
+        "value": "CUSTOM:EndstoneCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:EndstoneCuts"
+      },
+      {
+        "value": "CUSTOM:EndstoneDent"
+      },
+      {
+        "value": "CUSTOM:EndstoneDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:EndstoneEncasedBricks"
+      },
+      {
+        "value": "CUSTOM:EndstoneFrench1"
+      },
+      {
+        "value": "CUSTOM:EndstoneFrench2"
+      },
+      {
+        "value": "CUSTOM:EndstoneJellybean"
+      },
+      {
+        "value": "CUSTOM:EndstoneLargeTile"
+      },
+      {
+        "value": "CUSTOM:EndstoneLayer"
+      },
+      {
+        "value": "CUSTOM:EndstoneMosaic"
+      },
+      {
+        "value": "CUSTOM:EndstoneOrnate"
+      },
+      {
+        "value": "CUSTOM:EndstonePanel"
+      },
+      {
+        "value": "CUSTOM:EndstonePillar"
+      },
+      {
+        "value": "CUSTOM:EndstonePrism"
+      },
+      {
+        "value": "CUSTOM:EndstoneRaw"
+      },
+      {
+        "value": "CUSTOM:EndstoneRoad"
+      },
+      {
+        "value": "CUSTOM:EndstoneSlanted"
+      },
+      {
+        "value": "CUSTOM:EndstoneSmallBricks"
+      },
+      {
+        "value": "CUSTOM:EndstoneSmallDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:EndstoneSmallTiles"
+      },
+      {
+        "value": "CUSTOM:EndstoneTiles"
+      },
+      {
+        "value": "CUSTOM:EndstoneTroddenBricks"
+      },
+      {
+        "value": "CUSTOM:EndstoneTwisted"
+      },
+      {
+        "value": "CUSTOM:EndstoneWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:EndstoneWideBricks"
+      },
+      {
+        "value": "CUSTOM:EndstoneZag"
+      },
+      {
+        "value": "CUSTOM:EndstoneCleanBricks"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_endstone",
+    "namespace": "mod"
+  }
+}
