@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/granite_celtic",
+    "up": "carver:blocks/granite_celtic",
+    "north": "carver:blocks/granite_celtic",
+    "east": "carver:blocks/granite_celtic",
+    "south": "carver:blocks/granite_celtic",
+    "west": "carver:blocks/granite_celtic",
+    "particle": "carver:blocks/granite_celtic"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/granite_circular",
+    "up": "carver:blocks/granite_circular",
+    "north": "carver:blocks/granite_circular",
+    "east": "carver:blocks/granite_circular",
+    "south": "carver:blocks/granite_circular",
+    "west": "carver:blocks/granite_circular",
+    "particle": "carver:blocks/granite_circular"
+  }
+}

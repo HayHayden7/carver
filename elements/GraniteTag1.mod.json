@@ -1,0 +1,116 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GraniteArray"
+      },
+      {
+        "value": "CUSTOM:GraniteBraid"
+      },
+      {
+        "value": "CUSTOM:GraniteBricks"
+      },
+      {
+        "value": "CUSTOM:GraniteCeltic"
+      },
+      {
+        "value": "CUSTOM:GraniteCircular"
+      },
+      {
+        "value": "CUSTOM:GraniteCracked"
+      },
+      {
+        "value": "CUSTOM:GraniteCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:GraniteCuts"
+      },
+      {
+        "value": "CUSTOM:GraniteDent"
+      },
+      {
+        "value": "CUSTOM:GraniteDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:GraniteEncasedBricks"
+      },
+      {
+        "value": "CUSTOM:GraniteFrench1"
+      },
+      {
+        "value": "CUSTOM:GraniteFrench2"
+      },
+      {
+        "value": "CUSTOM:GraniteJellybean"
+      },
+      {
+        "value": "CUSTOM:GraniteLargeTile"
+      },
+      {
+        "value": "CUSTOM:GraniteLayer"
+      },
+      {
+        "value": "CUSTOM:GraniteMosaic"
+      },
+      {
+        "value": "CUSTOM:GraniteOrnate"
+      },
+      {
+        "value": "CUSTOM:GranitePanel"
+      },
+      {
+        "value": "CUSTOM:GranitePillar"
+      },
+      {
+        "value": "CUSTOM:GranitePrism"
+      },
+      {
+        "value": "CUSTOM:GraniteRaw"
+      },
+      {
+        "value": "CUSTOM:GraniteRoad"
+      },
+      {
+        "value": "CUSTOM:GraniteSlanted"
+      },
+      {
+        "value": "CUSTOM:GraniteSmallBricks"
+      },
+      {
+        "value": "CUSTOM:GraniteSmallDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:GraniteSmallTiles"
+      },
+      {
+        "value": "CUSTOM:GraniteTiles"
+      },
+      {
+        "value": "CUSTOM:GraniteTroddenBricks"
+      },
+      {
+        "value": "CUSTOM:GraniteTwisted"
+      },
+      {
+        "value": "CUSTOM:GraniteWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:GraniteWideBricks"
+      },
+      {
+        "value": "CUSTOM:GraniteZag"
+      },
+      {
+        "value": "Blocks.STONE#1"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_granite",
+    "namespace": "mod"
+  }
+}
