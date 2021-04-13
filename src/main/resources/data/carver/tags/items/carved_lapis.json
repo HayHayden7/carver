@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "carver:lapis_cobble",
+    "carver:lapis_gold_encrusted",
+    "carver:lapis_masonry",
+    "carver:lapis_panel",
+    "carver:lapis_raw",
+    "carver:lapis_shiny_tile",
+    "carver:lapis_tile",
+    "carver:lapis_wood_framed",
+    "carver:lapis_zelda",
+    "minecraft:lapis_block"
+  ]
+}

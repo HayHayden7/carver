@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/oakplank_crate-fancy",
+    "particle": "carver:blocks/oakplank_crate-fancy"
+  }
+}

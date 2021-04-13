@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/diorite_chaotic_bricks",
+    "up": "carver:blocks/diorite_chaotic_bricks",
+    "north": "carver:blocks/diorite_chaotic_bricks",
+    "east": "carver:blocks/diorite_chaotic_bricks",
+    "south": "carver:blocks/diorite_chaotic_bricks",
+    "west": "carver:blocks/diorite_chaotic_bricks",
+    "particle": "carver:blocks/diorite_chaotic_bricks"
+  }
+}

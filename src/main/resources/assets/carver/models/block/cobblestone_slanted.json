@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/cobblestone_slanted",
+    "up": "carver:blocks/cobblestone_slanted",
+    "north": "carver:blocks/cobblestone_slanted",
+    "east": "carver:blocks/cobblestone_slanted",
+    "south": "carver:blocks/cobblestone_slanted",
+    "west": "carver:blocks/cobblestone_slanted",
+    "particle": "carver:blocks/cobblestone_slanted"
+  }
+}

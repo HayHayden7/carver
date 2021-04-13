@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "carver:oak_plank_smooth",
+    "carver:oak_plank_planked",
+    "carver:oak_plank_fancy",
+    "carver:oak_plank_nailed_plank",
+    "carver:oak_plank_nailed_large",
+    "carver:oak_plank_crate",
+    "carver:oak_plank_fancy_crate",
+    "carver:oak_plank_large",
+    "carver:oak_plank_vertical",
+    "carver:oak_plank_uneven_vertical",
+    "carver:oak_plank_braid",
+    "carver:oak_plank_blinds",
+    "carver:oak_plank_scaffold",
+    "carver:oak_plank_disarray_horizontal",
+    "carver:oak_plank_disarray_vertical"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/lapis_shiny_tile",
+    "particle": "carver:blocks/lapis_shiny_tile"
+  }
+}

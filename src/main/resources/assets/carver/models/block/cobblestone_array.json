@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/cobblestone_array",
+    "up": "carver:blocks/cobblestone_array",
+    "north": "carver:blocks/cobblestone_array",
+    "east": "carver:blocks/cobblestone_array",
+    "south": "carver:blocks/cobblestone_array",
+    "west": "carver:blocks/cobblestone_array",
+    "particle": "carver:blocks/cobblestone_array"
+  }
+}

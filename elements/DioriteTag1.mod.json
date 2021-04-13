@@ -1,0 +1,110 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DioriteArray"
+      },
+      {
+        "value": "CUSTOM:DioriteBraid"
+      },
+      {
+        "value": "CUSTOM:DioriteBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteChaoticBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteCircular"
+      },
+      {
+        "value": "CUSTOM:DioriteCracked"
+      },
+      {
+        "value": "CUSTOM:DioriteCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteCuts"
+      },
+      {
+        "value": "CUSTOM:DioriteDent"
+      },
+      {
+        "value": "CUSTOM:DioriteDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:DioriteEncasedBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteFrench1"
+      },
+      {
+        "value": "CUSTOM:DioriteFrench2"
+      },
+      {
+        "value": "CUSTOM:DioriteJellybean"
+      },
+      {
+        "value": "CUSTOM:DioriteLargeTiles"
+      },
+      {
+        "value": "CUSTOM:DioriteLayers"
+      },
+      {
+        "value": "CUSTOM:DioriteMosaic"
+      },
+      {
+        "value": "CUSTOM:DioriteOrnate"
+      },
+      {
+        "value": "CUSTOM:DioritePanel"
+      },
+      {
+        "value": "CUSTOM:DioritePillar"
+      },
+      {
+        "value": "CUSTOM:DioritePrism"
+      },
+      {
+        "value": "CUSTOM:DioriteRaw"
+      },
+      {
+        "value": "CUSTOM:DioriteRoad"
+      },
+      {
+        "value": "CUSTOM:DioriteSlanted"
+      },
+      {
+        "value": "CUSTOM:DioriteSmallBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteTiles"
+      },
+      {
+        "value": "CUSTOM:DioriteTwisted"
+      },
+      {
+        "value": "CUSTOM:DioriteWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteWeaver"
+      },
+      {
+        "value": "CUSTOM:DioriteWideBricks"
+      },
+      {
+        "value": "CUSTOM:DioriteZag"
+      },
+      {
+        "value": "Blocks.STONE#3"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_diorite",
+    "namespace": "mod"
+  }
+}

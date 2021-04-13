@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/cobblestone_dent",
+    "up": "carver:blocks/cobblestone_dent",
+    "north": "carver:blocks/cobblestone_dent",
+    "east": "carver:blocks/cobblestone_dent",
+    "south": "carver:blocks/cobblestone_dent",
+    "west": "carver:blocks/cobblestone_dent",
+    "particle": "carver:blocks/cobblestone_dent"
+  }
+}

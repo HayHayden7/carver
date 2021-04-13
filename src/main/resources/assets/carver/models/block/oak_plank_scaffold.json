@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/oakplank_crateex",
+    "particle": "carver:blocks/oakplank_crateex"
+  }
+}

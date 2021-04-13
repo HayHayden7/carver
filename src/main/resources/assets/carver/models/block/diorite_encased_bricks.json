@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/diorite_encased_bricks",
+    "up": "carver:blocks/diorite_encased_bricks",
+    "north": "carver:blocks/diorite_encased_bricks",
+    "east": "carver:blocks/diorite_encased_bricks",
+    "south": "carver:blocks/diorite_encased_bricks",
+    "west": "carver:blocks/diorite_encased_bricks",
+    "particle": "carver:blocks/diorite_encased_bricks"
+  }
+}

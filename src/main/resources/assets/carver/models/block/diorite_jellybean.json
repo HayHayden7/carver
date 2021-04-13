@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/diorite_jellybean",
+    "up": "carver:blocks/diorite_jellybean",
+    "north": "carver:blocks/diorite_jellybean",
+    "east": "carver:blocks/diorite_jellybean",
+    "south": "carver:blocks/diorite_jellybean",
+    "west": "carver:blocks/diorite_jellybean",
+    "particle": "carver:blocks/diorite_jellybean"
+  }
+}

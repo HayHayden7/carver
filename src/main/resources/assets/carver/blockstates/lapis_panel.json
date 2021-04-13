@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "carver:block/lapis_panel"
+    }
+  }
+}

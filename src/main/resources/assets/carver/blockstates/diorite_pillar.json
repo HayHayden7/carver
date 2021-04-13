@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "carver:block/diorite_pillar"
+    },
+    "facing=north": {
+      "model": "carver:block/diorite_pillar"
+    },
+    "facing=east": {
+      "model": "carver:block/diorite_pillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "carver:block/diorite_pillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "carver:block/diorite_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "carver:block/diorite_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

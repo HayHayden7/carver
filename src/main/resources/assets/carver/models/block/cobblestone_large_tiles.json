@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/cobblestone_large_tiles",
+    "up": "carver:blocks/cobblestone_large_tiles",
+    "north": "carver:blocks/cobblestone_large_tiles",
+    "east": "carver:blocks/cobblestone_large_tiles",
+    "south": "carver:blocks/cobblestone_large_tiles",
+    "west": "carver:blocks/cobblestone_large_tiles",
+    "particle": "carver:blocks/cobblestone_large_tiles"
+  }
+}

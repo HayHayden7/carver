@@ -1,0 +1,11 @@
+{
+  "_fv": 17,
+  "_type": "tab",
+  "definition": {
+    "name": "Carver",
+    "icon": {
+      "value": "Blocks.STONECUTTER"
+    },
+    "showSearch": true
+  }
+}
