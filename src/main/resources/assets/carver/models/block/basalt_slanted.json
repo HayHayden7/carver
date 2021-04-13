@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/basalt_slanted",
+    "up": "carver:blocks/basalt_slanted",
+    "north": "carver:blocks/basalt_slanted",
+    "east": "carver:blocks/basalt_slanted",
+    "south": "carver:blocks/basalt_slanted",
+    "west": "carver:blocks/basalt_slanted",
+    "particle": "carver:blocks/basalt_slanted"
+  }
+}

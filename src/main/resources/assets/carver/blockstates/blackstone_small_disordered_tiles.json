@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "carver:block/blackstone_small_disordered_tiles"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/basalt_encased_bricks",
+    "up": "carver:blocks/basalt_encased_bricks",
+    "north": "carver:blocks/basalt_encased_bricks",
+    "east": "carver:blocks/basalt_encased_bricks",
+    "south": "carver:blocks/basalt_encased_bricks",
+    "west": "carver:blocks/basalt_encased_bricks",
+    "particle": "carver:blocks/basalt_encased_bricks"
+  }
+}

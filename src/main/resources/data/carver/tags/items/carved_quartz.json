@@ -33,6 +33,7 @@
     "carver:quartz_weathered_bricks",
     "carver:quartz_wide_bricks",
     "carver:quartz_zag",
-    "minecraft:quartz_block"
+    "minecraft:quartz_block",
+    "carver:quartz_tiles"
   ]
 }

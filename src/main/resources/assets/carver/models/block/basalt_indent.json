@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/basalt_indent",
+    "up": "carver:blocks/basalt_indent",
+    "north": "carver:blocks/basalt_indent",
+    "east": "carver:blocks/basalt_indent",
+    "south": "carver:blocks/basalt_indent",
+    "west": "carver:blocks/basalt_indent",
+    "particle": "carver:blocks/basalt_indent"
+  }
+}

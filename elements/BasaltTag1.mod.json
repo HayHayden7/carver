@@ -1,0 +1,116 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BasaltArray"
+      },
+      {
+        "value": "CUSTOM:BasaltBraid"
+      },
+      {
+        "value": "CUSTOM:BasaltBricks"
+      },
+      {
+        "value": "CUSTOM:BasaltCeltic"
+      },
+      {
+        "value": "CUSTOM:BasaltCracked"
+      },
+      {
+        "value": "CUSTOM:BasaltCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:BasaltCuts"
+      },
+      {
+        "value": "CUSTOM:BasaltDent"
+      },
+      {
+        "value": "CUSTOM:BasaltDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:BasaltEncasedBricks"
+      },
+      {
+        "value": "CUSTOM:BasaltFrench1"
+      },
+      {
+        "value": "CUSTOM:BasaltFrench2"
+      },
+      {
+        "value": "CUSTOM:BasaltJellybean"
+      },
+      {
+        "value": "CUSTOM:BasaltEmboss"
+      },
+      {
+        "value": "CUSTOM:BasaltIndent"
+      },
+      {
+        "value": "CUSTOM:BasaltLargeTile"
+      },
+      {
+        "value": "CUSTOM:BasaltLayer"
+      },
+      {
+        "value": "CUSTOM:BasaltMosaic"
+      },
+      {
+        "value": "CUSTOM:BasaltOrnate"
+      },
+      {
+        "value": "CUSTOM:BasaltPanel"
+      },
+      {
+        "value": "CUSTOM:BasaltPillar"
+      },
+      {
+        "value": "CUSTOM:BasaltPrism"
+      },
+      {
+        "value": "CUSTOM:BasaltRaw"
+      },
+      {
+        "value": "CUSTOM:BasaltRoad"
+      },
+      {
+        "value": "CUSTOM:BasaltSlanted"
+      },
+      {
+        "value": "CUSTOM:BasaltSmallBricks"
+      },
+      {
+        "value": "CUSTOM:BasaltSmallDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:BasaltSmallTiles"
+      },
+      {
+        "value": "CUSTOM:BasaltTiles"
+      },
+      {
+        "value": "CUSTOM:BasaltTwisted"
+      },
+      {
+        "value": "CUSTOM:BasaltWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:BasaltWideBricks"
+      },
+      {
+        "value": "CUSTOM:BasaltZag"
+      },
+      {
+        "value": "Blocks.BASALT"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_basalt",
+    "namespace": "mod"
+  }
+}

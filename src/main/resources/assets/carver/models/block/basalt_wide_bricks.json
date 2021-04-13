@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/basalt_wide_bricks",
+    "particle": "carver:blocks/basalt_wide_bricks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/blackstone_slanted",
+    "up": "carver:blocks/blackstone_slanted",
+    "north": "carver:blocks/blackstone_slanted",
+    "east": "carver:blocks/blackstone_slanted",
+    "south": "carver:blocks/blackstone_slanted",
+    "west": "carver:blocks/blackstone_slanted",
+    "particle": "carver:blocks/blackstone_slanted"
+  }
+}

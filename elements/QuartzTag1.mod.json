@@ -102,6 +102,9 @@
       },
       {
         "value": "Blocks.QUARTZ_BLOCK#3"
+      },
+      {
+        "value": "CUSTOM:QuartzTiles"
       }
     ],
     "blocks": [],

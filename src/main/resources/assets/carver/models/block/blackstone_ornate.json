@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/blackstone_ornate",
+    "particle": "carver:blocks/blackstone_ornate"
+  }
+}

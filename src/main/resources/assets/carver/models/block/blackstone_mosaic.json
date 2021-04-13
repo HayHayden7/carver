@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/blackstone_mosaic",
+    "up": "carver:blocks/blackstone_mosaic",
+    "north": "carver:blocks/blackstone_mosaic",
+    "east": "carver:blocks/blackstone_mosaic",
+    "south": "carver:blocks/blackstone_mosaic",
+    "west": "carver:blocks/blackstone_mosaic",
+    "particle": "carver:blocks/blackstone_mosaic"
+  }
+}

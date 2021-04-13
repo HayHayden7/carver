@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/blackstone_indent",
+    "up": "carver:blocks/blackstone_indent",
+    "north": "carver:blocks/blackstone_indent",
+    "east": "carver:blocks/blackstone_indent",
+    "south": "carver:blocks/blackstone_indent",
+    "west": "carver:blocks/blackstone_indent",
+    "particle": "carver:blocks/blackstone_indent"
+  }
+}
