@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/andesite_raw",
+    "particle": "carver:blocks/andesite_raw"
+  }
+}

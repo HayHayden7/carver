@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/andesite_mosaic",
+    "up": "carver:blocks/andesite_mosaic",
+    "north": "carver:blocks/andesite_mosaic",
+    "east": "carver:blocks/andesite_mosaic",
+    "south": "carver:blocks/andesite_mosaic",
+    "west": "carver:blocks/andesite_mosaic",
+    "particle": "carver:blocks/andesite_mosaic"
+  }
+}

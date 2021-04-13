@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/andesite_slanted",
+    "up": "carver:blocks/andesite_slanted",
+    "north": "carver:blocks/andesite_slanted",
+    "east": "carver:blocks/andesite_slanted",
+    "south": "carver:blocks/andesite_slanted",
+    "west": "carver:blocks/andesite_slanted",
+    "particle": "carver:blocks/andesite_slanted"
+  }
+}
