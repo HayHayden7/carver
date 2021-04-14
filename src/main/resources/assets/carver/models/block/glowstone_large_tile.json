@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/glowstone_tiles-large",
+    "up": "carver:blocks/glowstone_tiles-large",
+    "north": "carver:blocks/glowstone_tiles-large",
+    "east": "carver:blocks/glowstone_tiles-large",
+    "south": "carver:blocks/glowstone_tiles-large",
+    "west": "carver:blocks/glowstone_tiles-large",
+    "particle": "carver:blocks/glowstone_tiles-large"
+  }
+}

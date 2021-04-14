@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/glowstone_road",
+    "particle": "carver:blocks/glowstone_road"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/glowstone_array",
+    "up": "carver:blocks/glowstone_array",
+    "north": "carver:blocks/glowstone_array",
+    "east": "carver:blocks/glowstone_array",
+    "south": "carver:blocks/glowstone_array",
+    "west": "carver:blocks/glowstone_array",
+    "particle": "carver:blocks/glowstone_array"
+  }
+}

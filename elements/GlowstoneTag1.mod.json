@@ -1,0 +1,116 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GlowstoneArray"
+      },
+      {
+        "value": "CUSTOM:GlowstoneBismuth"
+      },
+      {
+        "value": "CUSTOM:GlowstoneBraid"
+      },
+      {
+        "value": "CUSTOM:GlowstoneCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:GlowstoneEncasedBricks"
+      },
+      {
+        "value": "CUSTOM:GlowstoneSmallBricks"
+      },
+      {
+        "value": "CUSTOM:GlowstoneWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:GlowstoneBricks"
+      },
+      {
+        "value": "CUSTOM:GlowstoneWideBricks"
+      },
+      {
+        "value": "CUSTOM:GlowstoneDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:GlowstoneSmallDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:GlowstoneCircular"
+      },
+      {
+        "value": "CUSTOM:GlowstoneCracked"
+      },
+      {
+        "value": "CUSTOM:GlowstoneDent"
+      },
+      {
+        "value": "CUSTOM:GlowstoneFrench1"
+      },
+      {
+        "value": "CUSTOM:GlowstoneFrench2"
+      },
+      {
+        "value": "CUSTOM:GlowstoneJellybean"
+      },
+      {
+        "value": "CUSTOM:GlowstoneLayer"
+      },
+      {
+        "value": "CUSTOM:GlowstoneMosaic"
+      },
+      {
+        "value": "CUSTOM:GlowstoneNeon"
+      },
+      {
+        "value": "CUSTOM:GlowstoneNeonPanel"
+      },
+      {
+        "value": "CUSTOM:GlowstoneOrnate"
+      },
+      {
+        "value": "CUSTOM:GlowstonePanel"
+      },
+      {
+        "value": "CUSTOM:GlowstonePillar"
+      },
+      {
+        "value": "CUSTOM:GlowstonePrism"
+      },
+      {
+        "value": "CUSTOM:GlowstoneRoad"
+      },
+      {
+        "value": "CUSTOM:GlowstoneSlanted"
+      },
+      {
+        "value": "CUSTOM:GlowstoneLargeTile"
+      },
+      {
+        "value": "CUSTOM:GlowstoneBismuthPanel"
+      },
+      {
+        "value": "CUSTOM:GlowstoneTiles"
+      },
+      {
+        "value": "CUSTOM:GlowstoneBismuthTiles"
+      },
+      {
+        "value": "CUSTOM:GlowstoneSmallTiles"
+      },
+      {
+        "value": "CUSTOM:GlowstoneTwisted"
+      },
+      {
+        "value": "Blocks.GLOWSTONE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_glowstone",
+    "namespace": "mod"
+  }
+}

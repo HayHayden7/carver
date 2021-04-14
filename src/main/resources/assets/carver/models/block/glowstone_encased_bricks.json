@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/glowstone_bricks-encased",
+    "up": "carver:blocks/glowstone_bricks-encased",
+    "north": "carver:blocks/glowstone_bricks-encased",
+    "east": "carver:blocks/glowstone_bricks-encased",
+    "south": "carver:blocks/glowstone_bricks-encased",
+    "west": "carver:blocks/glowstone_bricks-encased",
+    "particle": "carver:blocks/glowstone_bricks-encased"
+  }
+}
