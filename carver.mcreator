@@ -5697,14 +5697,851 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stone_recipe_array"
+    },
+    {
+      "name": "CobblestoneTag3",
+      "type": "tag",
+      "sortid": 635,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobblestone_tag_3"
+    },
+    {
+      "name": "CobblestoneTag4",
+      "type": "tag",
+      "sortid": 636,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobblestone_tag_4"
+    },
+    {
+      "name": "BasaltRecipeBraid",
+      "type": "recipe",
+      "sortid": 637,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_braid"
+    },
+    {
+      "name": "BasaltRecipeBricks",
+      "type": "recipe",
+      "sortid": 638,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_bricks"
+    },
+    {
+      "name": "BasaltRecipeCracked",
+      "type": "recipe",
+      "sortid": 639,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_cracked"
+    },
+    {
+      "name": "BasaltRecipeCeltic",
+      "type": "recipe",
+      "sortid": 640,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_celtic"
+    },
+    {
+      "name": "BasaltRecipeCrackedBricks",
+      "type": "recipe",
+      "sortid": 641,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_cracked_bricks"
+    },
+    {
+      "name": "BasaltRecipeCuts",
+      "type": "recipe",
+      "sortid": 642,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_cuts"
+    },
+    {
+      "name": "BasaltRecipeDent",
+      "type": "recipe",
+      "sortid": 643,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_dent"
+    },
+    {
+      "name": "BasaltRecipeDisorderedTiles",
+      "type": "recipe",
+      "sortid": 644,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_disordered_tiles"
+    },
+    {
+      "name": "BasaltRecipeEncasedBricks",
+      "type": "recipe",
+      "sortid": 645,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_encased_bricks"
+    },
+    {
+      "name": "BasaltRecipeFrench1",
+      "type": "recipe",
+      "sortid": 646,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_french_1"
+    },
+    {
+      "name": "BasaltRecipeFrench2",
+      "type": "recipe",
+      "sortid": 647,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_french_2"
+    },
+    {
+      "name": "BasaltRecipeJellybean",
+      "type": "recipe",
+      "sortid": 648,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_jellybean"
+    },
+    {
+      "name": "BasaltRecipeEmboss",
+      "type": "recipe",
+      "sortid": 649,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_emboss"
+    },
+    {
+      "name": "BasaltRecipeIndent",
+      "type": "recipe",
+      "sortid": 650,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_indent"
+    },
+    {
+      "name": "BasaltRecipeLargeTile",
+      "type": "recipe",
+      "sortid": 651,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_large_tile"
+    },
+    {
+      "name": "BasaltRecipeLayer",
+      "type": "recipe",
+      "sortid": 652,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_layer"
+    },
+    {
+      "name": "BasaltRecipeMosaic",
+      "type": "recipe",
+      "sortid": 653,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_mosaic"
+    },
+    {
+      "name": "BasaltRecipeOrnate",
+      "type": "recipe",
+      "sortid": 654,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_ornate"
+    },
+    {
+      "name": "BasaltRecipePanel",
+      "type": "recipe",
+      "sortid": 655,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_panel"
+    },
+    {
+      "name": "BasaltRecipePillar",
+      "type": "recipe",
+      "sortid": 656,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_pillar"
+    },
+    {
+      "name": "BasaltRecipePrism",
+      "type": "recipe",
+      "sortid": 657,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_prism"
+    },
+    {
+      "name": "BasaltRecipeRaw",
+      "type": "recipe",
+      "sortid": 658,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_raw"
+    },
+    {
+      "name": "BasaltRecipeRoad",
+      "type": "recipe",
+      "sortid": 659,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_road"
+    },
+    {
+      "name": "BasaltRecipeSlanted",
+      "type": "recipe",
+      "sortid": 660,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_slanted"
+    },
+    {
+      "name": "BasaltRecipeSmallBricks",
+      "type": "recipe",
+      "sortid": 661,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_small_bricks"
+    },
+    {
+      "name": "BasaltRecipeSmallDisorderedTiles",
+      "type": "recipe",
+      "sortid": 662,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_small_disordered_tiles"
+    },
+    {
+      "name": "BasaltRecipeSmallTiles",
+      "type": "recipe",
+      "sortid": 663,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_small_tiles"
+    },
+    {
+      "name": "BasaltRecipeTiles",
+      "type": "recipe",
+      "sortid": 664,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_tiles"
+    },
+    {
+      "name": "BasaltRecipeTwisted",
+      "type": "recipe",
+      "sortid": 665,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_twisted"
+    },
+    {
+      "name": "BasaltRecipeWeatheredBricks",
+      "type": "recipe",
+      "sortid": 666,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_weathered_bricks"
+    },
+    {
+      "name": "BasaltRecipeWideBricks",
+      "type": "recipe",
+      "sortid": 667,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_wide_bricks"
+    },
+    {
+      "name": "BasaltRecipeZag",
+      "type": "recipe",
+      "sortid": 668,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_zag"
+    },
+    {
+      "name": "BasaltRecipeReversal",
+      "type": "recipe",
+      "sortid": 669,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_recipe_reversal"
+    },
+    {
+      "name": "GlowstoneRecipeBismuth",
+      "type": "recipe",
+      "sortid": 670,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_bismuth"
+    },
+    {
+      "name": "GlowstoneRecipeBraid",
+      "type": "recipe",
+      "sortid": 671,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_braid"
+    },
+    {
+      "name": "GlowstoneRecipeCrackedBricks",
+      "type": "recipe",
+      "sortid": 672,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_cracked_bricks"
+    },
+    {
+      "name": "GlowstoneRecipeEncasedBricks",
+      "type": "recipe",
+      "sortid": 673,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_encased_bricks"
+    },
+    {
+      "name": "GlowstoneRecipeSmallBricks",
+      "type": "recipe",
+      "sortid": 674,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_small_bricks"
+    },
+    {
+      "name": "GlowstoneRecipeWeatheredBricks",
+      "type": "recipe",
+      "sortid": 675,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_weathered_bricks"
+    },
+    {
+      "name": "GlowstoneRecipeBricks",
+      "type": "recipe",
+      "sortid": 676,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_bricks"
+    },
+    {
+      "name": "GlowstoneRecipeWideBricks",
+      "type": "recipe",
+      "sortid": 677,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_wide_bricks"
+    },
+    {
+      "name": "GlowstoneRecipeDisorderedTiles",
+      "type": "recipe",
+      "sortid": 678,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_disordered_tiles"
+    },
+    {
+      "name": "GlowstoneRecipeSmallDisorderedTiles",
+      "type": "recipe",
+      "sortid": 679,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_small_disordered_tiles"
+    },
+    {
+      "name": "GlowstoneRecipeCircular",
+      "type": "recipe",
+      "sortid": 680,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_circular"
+    },
+    {
+      "name": "GlowstoneRecipeCracked",
+      "type": "recipe",
+      "sortid": 681,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_cracked"
+    },
+    {
+      "name": "GlowstoneRecipeDent",
+      "type": "recipe",
+      "sortid": 682,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_dent"
+    },
+    {
+      "name": "GlowstoneRecipeFrench1",
+      "type": "recipe",
+      "sortid": 683,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_french_1"
+    },
+    {
+      "name": "GlowstoneRecipeFrench2",
+      "type": "recipe",
+      "sortid": 684,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_french_2"
+    },
+    {
+      "name": "GlowstoneRecipeJellybean",
+      "type": "recipe",
+      "sortid": 685,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_jellybean"
+    },
+    {
+      "name": "GlowstoneRecipeLayer",
+      "type": "recipe",
+      "sortid": 686,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_layer"
+    },
+    {
+      "name": "GlowstoneRecipeMosaic",
+      "type": "recipe",
+      "sortid": 687,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_mosaic"
+    },
+    {
+      "name": "GlowstoneRecipeNeon",
+      "type": "recipe",
+      "sortid": 688,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_neon"
+    },
+    {
+      "name": "GlowstoneRecipeNeonPanel",
+      "type": "recipe",
+      "sortid": 689,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_neon_panel"
+    },
+    {
+      "name": "GlowstoneRecipePanel",
+      "type": "recipe",
+      "sortid": 690,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_panel"
+    },
+    {
+      "name": "GlowstoneRecipeOrnate",
+      "type": "recipe",
+      "sortid": 691,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_ornate"
+    },
+    {
+      "name": "GlowstoneRecipePillar",
+      "type": "recipe",
+      "sortid": 692,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_pillar"
+    },
+    {
+      "name": "GlowstoneRecipePrism",
+      "type": "recipe",
+      "sortid": 693,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_prism"
+    },
+    {
+      "name": "GlowstoneRecipeRoad",
+      "type": "recipe",
+      "sortid": 694,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_road"
+    },
+    {
+      "name": "GlowstoneRecipeSlanted",
+      "type": "recipe",
+      "sortid": 695,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_slanted"
+    },
+    {
+      "name": "GlowstoneRecipeLargeTile",
+      "type": "recipe",
+      "sortid": 696,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_large_tile"
+    },
+    {
+      "name": "GlowstoneRecipeBismuthPanel",
+      "type": "recipe",
+      "sortid": 697,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_bismuth_panel"
+    },
+    {
+      "name": "GlowstoneRecipeTile",
+      "type": "recipe",
+      "sortid": 698,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_tile"
+    },
+    {
+      "name": "GlowstoneRecipeBismuthTiles",
+      "type": "recipe",
+      "sortid": 699,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_bismuth_tiles"
+    },
+    {
+      "name": "GlowstoneRecipeSmallTiles",
+      "type": "recipe",
+      "sortid": 700,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_small_tiles"
+    },
+    {
+      "name": "GlowstoneRecipeTwisted",
+      "type": "recipe",
+      "sortid": 701,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_recipe_twisted"
+    },
+    {
+      "name": "StoneRecipeBraid",
+      "type": "recipe",
+      "sortid": 702,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_braid"
+    },
+    {
+      "name": "StoneRecipeEncasedBricks",
+      "type": "recipe",
+      "sortid": 703,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_encased_bricks"
+    },
+    {
+      "name": "StoneRecipeSmallBricks",
+      "type": "recipe",
+      "sortid": 704,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_small_bricks"
+    },
+    {
+      "name": "StoneRecipeWeatheredBricks",
+      "type": "recipe",
+      "sortid": 705,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_weathered_bricks"
+    },
+    {
+      "name": "StoneRecipeWideBricks",
+      "type": "recipe",
+      "sortid": 706,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_wide_bricks"
+    },
+    {
+      "name": "StoneRecipeDisorderedTiles",
+      "type": "recipe",
+      "sortid": 707,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_disordered_tiles"
+    },
+    {
+      "name": "StoneRecipeSmallDisorderedTiles",
+      "type": "recipe",
+      "sortid": 708,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_small_disordered_tiles"
+    },
+    {
+      "name": "StoneRecipeCircular",
+      "type": "recipe",
+      "sortid": 709,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_circular"
+    },
+    {
+      "name": "StoneRecipeCracked",
+      "type": "recipe",
+      "sortid": 710,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_cracked"
+    },
+    {
+      "name": "StoneRecipeDent",
+      "type": "recipe",
+      "sortid": 711,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_dent"
+    },
+    {
+      "name": "StoneRecipeCuts",
+      "type": "recipe",
+      "sortid": 712,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_cuts"
+    },
+    {
+      "name": "StoneRecipeFrench1",
+      "type": "recipe",
+      "sortid": 713,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_french_1"
+    },
+    {
+      "name": "StoneRecipeFrench2",
+      "type": "recipe",
+      "sortid": 714,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_french_2"
+    },
+    {
+      "name": "StoneRecipeJellybean",
+      "type": "recipe",
+      "sortid": 715,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_jellybean"
+    },
+    {
+      "name": "StoneRecipeOrnateLarge",
+      "type": "recipe",
+      "sortid": 716,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_ornate_large"
+    },
+    {
+      "name": "StoneRecipeLayer",
+      "type": "recipe",
+      "sortid": 717,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_layer"
+    },
+    {
+      "name": "StoneRecipeMosaic",
+      "type": "recipe",
+      "sortid": 718,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_mosaic"
+    },
+    {
+      "name": "StoneRecipeOrnate",
+      "type": "recipe",
+      "sortid": 719,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_ornate"
+    },
+    {
+      "name": "StoneRecipePanel",
+      "type": "recipe",
+      "sortid": 720,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_panel"
+    },
+    {
+      "name": "StoneRecipePillar",
+      "type": "recipe",
+      "sortid": 721,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_pillar"
+    },
+    {
+      "name": "StoneRecipePoison",
+      "type": "recipe",
+      "sortid": 722,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_poison"
+    },
+    {
+      "name": "StoneRecipePrism",
+      "type": "recipe",
+      "sortid": 723,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_prism"
+    },
+    {
+      "name": "StoneRecipeRaw",
+      "type": "recipe",
+      "sortid": 724,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_raw"
+    },
+    {
+      "name": "StoneRecipeRoad",
+      "type": "recipe",
+      "sortid": 725,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_road"
+    },
+    {
+      "name": "StoneRecipeSlanted",
+      "type": "recipe",
+      "sortid": 726,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_slanted"
+    },
+    {
+      "name": "StoneRecipeTileLarge",
+      "type": "recipe",
+      "sortid": 727,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_recipe_tile_large"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.carver.glowstone_jellybean": "Glowstone",
       "block.carver.quartz_panel": "Block of Quartz",
+      "block.carver.glowstone_jellybean": "Glowstone",
       "block.carver.blackstone_array": "Blackstone",
       "block.carver.diorite_tiles": "Diorite",
       "block.carver.cobblestone_ornate": "Cobblestone",

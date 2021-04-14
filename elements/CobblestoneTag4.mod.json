@@ -1,0 +1,119 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CobblestoneBraid"
+      },
+      {
+        "value": "CUSTOM:CobblestoneBricks"
+      },
+      {
+        "value": "CUSTOM:CobblestoneCracked"
+      },
+      {
+        "value": "CUSTOM:CobblestoneCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:CobblestoneDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:CobblestoneFrench1"
+      },
+      {
+        "value": "CUSTOM:CobblestoneFrench2"
+      },
+      {
+        "value": "CUSTOM:CobblestoneLayers"
+      },
+      {
+        "value": "CUSTOM:CobblestoneOrnate"
+      },
+      {
+        "value": "CUSTOM:CobblestonePanel"
+      },
+      {
+        "value": "CUSTOM:CobblestonePillar"
+      },
+      {
+        "value": "CUSTOM:CobblestonePrism"
+      },
+      {
+        "value": "CUSTOM:CobblestoneRaw"
+      },
+      {
+        "value": "CUSTOM:CobblestoneRoad"
+      },
+      {
+        "value": "CUSTOM:CobblestoneSmallDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:CobblestoneSmallTiles"
+      },
+      {
+        "value": "CUSTOM:CobblestoneTiles"
+      },
+      {
+        "value": "CUSTOM:CobblestoneTwisted"
+      },
+      {
+        "value": "CUSTOM:CobblestoneWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:CobblestoneWideBricks"
+      },
+      {
+        "value": "CUSTOM:CobblestoneSmallBricks"
+      },
+      {
+        "value": "CUSTOM:CobblestoneEncasedBricks"
+      },
+      {
+        "value": "CUSTOM:CobblestoneArray"
+      },
+      {
+        "value": "CUSTOM:CobblestoneChaoticBricks"
+      },
+      {
+        "value": "CUSTOM:CobblestoneCuts"
+      },
+      {
+        "value": "CUSTOM:CobblestoneDent"
+      },
+      {
+        "value": "CUSTOM:CobblestoneEmboss"
+      },
+      {
+        "value": "CUSTOM:CobblestoneIndent"
+      },
+      {
+        "value": "CUSTOM:CobblestoneJellybean"
+      },
+      {
+        "value": "CUSTOM:CobblestoneLargeTiles"
+      },
+      {
+        "value": "CUSTOM:CobblestoneMarker"
+      },
+      {
+        "value": "CUSTOM:CobblestoneMosaic"
+      },
+      {
+        "value": "CUSTOM:CobblestoneSlanted"
+      },
+      {
+        "value": "CUSTOM:CobblestoneWeaver"
+      },
+      {
+        "value": "CUSTOM:CobblestoneZag"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "stone_tool_materials",
+    "namespace": "minecraft"
+  }
+}
