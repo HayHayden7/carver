@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "carver:soul_lantern_bars",
+    "carver:soul_lantern_gilded",
+    "carver:soul_lantern_window",
+    "minecraft:soul_lantern"
+  ]
+}

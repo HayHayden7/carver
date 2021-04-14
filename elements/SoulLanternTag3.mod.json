@@ -1,0 +1,26 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SoulLanternBars"
+      },
+      {
+        "value": "CUSTOM:SoulLanternGilded"
+      },
+      {
+        "value": "CUSTOM:SoulLanternWindow"
+      },
+      {
+        "value": "Blocks.SOUL_LANTERN"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_soul_lantern",
+    "namespace": "mod"
+  }
+}

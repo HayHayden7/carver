@@ -1,0 +1,7 @@
+{
+  "parent": "carver:custom/soul_lantern_window",
+  "textures": {
+    "all": "carver:blocks/soul_lantern_window",
+    "particle": "carver:blocks/soul_lantern_window"
+  }
+}

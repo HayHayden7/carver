@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "particle": "soul_lantern_window"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lantern_window",
+        "lantern": "lantern_window"
+      },
+      "name": "default"
+    }
+  }
+}

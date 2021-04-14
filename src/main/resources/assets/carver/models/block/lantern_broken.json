@@ -1,0 +1,8 @@
+{
+  "parent": "carver:custom/lantern_broken",
+  "textures": {
+    "all": "carver:blocks/lantern_broken",
+    "particle": "carver:blocks/lantern_broken",
+    "0": "carver:blocks/lantern_broken"
+  }
+}

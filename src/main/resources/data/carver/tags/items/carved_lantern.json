@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "carver:lantern_bars",
+    "carver:lantern_gilded",
+    "carver:lantern_broken",
+    "carver:lantern_window",
+    "carver:lantern_zen",
+    "minecraft:lantern"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lantern_gilded",
+        "lantern": "lantern_gilded"
+      },
+      "name": "default"
+    }
+  }
+}

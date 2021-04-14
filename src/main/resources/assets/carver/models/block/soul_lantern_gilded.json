@@ -1,0 +1,9 @@
+{
+  "parent": "carver:custom/soul_lantern_gilded",
+  "textures": {
+    "all": "carver:blocks/soul_lantern_gilded",
+    "particle": "carver:blocks/soul_lantern_gilded",
+    "1": "carver:blocks/soul_lantern_gilded",
+    "lantern": "carver:blocks/soul_lantern_gilded"
+  }
+}

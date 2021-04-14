@@ -1,0 +1,32 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LanternBars"
+      },
+      {
+        "value": "CUSTOM:LanternGilded"
+      },
+      {
+        "value": "CUSTOM:LanternBroken"
+      },
+      {
+        "value": "CUSTOM:LanternWindow"
+      },
+      {
+        "value": "CUSTOM:LanternZen"
+      },
+      {
+        "value": "Blocks.LANTERN"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_lantern",
+    "namespace": "mod"
+  }
+}

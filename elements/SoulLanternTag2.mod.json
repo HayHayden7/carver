@@ -1,0 +1,32 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SoulLanternBars"
+      },
+      {
+        "value": "CUSTOM:SoulLanternBarsHanging"
+      },
+      {
+        "value": "CUSTOM:SoulLanternGilded"
+      },
+      {
+        "value": "CUSTOM:SoulLanternGildedHanging"
+      },
+      {
+        "value": "CUSTOM:SoulLanternWindow"
+      },
+      {
+        "value": "CUSTOM:SoulLanternWindowHanging"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "piglin_reppelents",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "carver:custom/hanging_lantern_gilded",
+  "textures": {
+    "all": "carver:blocks/lantern_gilded",
+    "particle": "carver:blocks/lantern_gilded",
+    "1": "carver:blocks/lantern_gilded",
+    "lantern": "carver:blocks/lantern_gilded"
+  }
+}

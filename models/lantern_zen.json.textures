@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lantern_zen",
+        "lantern": "lantern_zen"
+      },
+      "name": "default"
+    }
+  }
+}

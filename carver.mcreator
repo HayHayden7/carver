@@ -6534,14 +6534,1012 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stone_recipe_tile_large"
+    },
+    {
+      "name": "LanternBars",
+      "type": "block",
+      "sortid": 728,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_bars"
+    },
+    {
+      "name": "LanternBarsHanging",
+      "type": "block",
+      "sortid": 729,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_bars_hanging"
+    },
+    {
+      "name": "LanternBarsBlockHangingProcedure",
+      "type": "procedure",
+      "sortid": 730,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_bars_block_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternBarsUpdateTick",
+      "type": "procedure",
+      "sortid": 731,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_bars_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternBarsHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 732,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_bars_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternGilded",
+      "type": "block",
+      "sortid": 733,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_gilded"
+    },
+    {
+      "name": "LanternGildedHanging",
+      "type": "block",
+      "sortid": 734,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_gilded_hanging"
+    },
+    {
+      "name": "LanternGildedHangingProcedure",
+      "type": "procedure",
+      "sortid": 735,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_gilded_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternGildedUpdateTick",
+      "type": "procedure",
+      "sortid": 736,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_gilded_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternGildedHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 737,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_gilded_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternBroken",
+      "type": "block",
+      "sortid": 738,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_broken"
+    },
+    {
+      "name": "LanternBrokenHanging",
+      "type": "block",
+      "sortid": 739,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_broken_hanging"
+    },
+    {
+      "name": "LanternBrokenHangingProcedure",
+      "type": "procedure",
+      "sortid": 740,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_broken_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternBrokenUpdateTick",
+      "type": "procedure",
+      "sortid": 741,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_broken_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternBrokenHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 742,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_broken_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternWindow",
+      "type": "block",
+      "sortid": 743,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_window"
+    },
+    {
+      "name": "LanternWindowHanging",
+      "type": "block",
+      "sortid": 744,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_window_hanging"
+    },
+    {
+      "name": "LanternWindowHangingProcedure",
+      "type": "procedure",
+      "sortid": 745,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_window_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternWindowUpdateTick",
+      "type": "procedure",
+      "sortid": 746,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_window_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternWindowHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 747,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_window_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternZen",
+      "type": "block",
+      "sortid": 748,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_zen"
+    },
+    {
+      "name": "LanternZenHanging",
+      "type": "block",
+      "sortid": 749,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_zen_hanging"
+    },
+    {
+      "name": "LanternZenHangingProcedure",
+      "type": "procedure",
+      "sortid": 750,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_zen_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternZenUpdateTick",
+      "type": "procedure",
+      "sortid": 751,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_zen_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LanternZenHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 752,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_zen_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternBars",
+      "type": "block",
+      "sortid": 753,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_bars"
+    },
+    {
+      "name": "SoulLanternBarsHanging",
+      "type": "block",
+      "sortid": 754,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_bars_hanging"
+    },
+    {
+      "name": "SoulLanternBarsHangingProcedure",
+      "type": "procedure",
+      "sortid": 755,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_bars_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternBarsUpdateTick",
+      "type": "procedure",
+      "sortid": 756,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_bars_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternBarsHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 757,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_bars_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternGilded",
+      "type": "block",
+      "sortid": 758,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_gilded"
+    },
+    {
+      "name": "SoulLanternGildedHanging",
+      "type": "block",
+      "sortid": 759,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_gilded_hanging"
+    },
+    {
+      "name": "SoulLanternGildedHangingProcedure",
+      "type": "procedure",
+      "sortid": 760,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_gilded_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternGildedUpdateTick",
+      "type": "procedure",
+      "sortid": 761,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_gilded_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternGildedHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 762,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_gilded_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternWindow",
+      "type": "block",
+      "sortid": 763,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_window"
+    },
+    {
+      "name": "SoulLanternWindowHanging",
+      "type": "block",
+      "sortid": 764,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_window_hanging"
+    },
+    {
+      "name": "SoulLanternWindowHangingProcedure",
+      "type": "procedure",
+      "sortid": 765,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_window_hanging_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternWindowUpdateTick",
+      "type": "procedure",
+      "sortid": 766,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_window_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternWindowHangingUpdateTick",
+      "type": "procedure",
+      "sortid": 767,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_window_hanging_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoulLanternTag1",
+      "type": "tag",
+      "sortid": 768,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_tag_1"
+    },
+    {
+      "name": "SoulLanternTag2",
+      "type": "tag",
+      "sortid": 769,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_tag_2"
+    },
+    {
+      "name": "LanternTag1",
+      "type": "tag",
+      "sortid": 770,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_tag_1"
+    },
+    {
+      "name": "SoulLanternTag3",
+      "type": "tag",
+      "sortid": 771,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_tag_3"
+    },
+    {
+      "name": "LanternRecipeBars",
+      "type": "recipe",
+      "sortid": 770,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_recipe_bars"
+    },
+    {
+      "name": "LanternRecipeGilded",
+      "type": "recipe",
+      "sortid": 772,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_recipe_gilded"
+    },
+    {
+      "name": "LanternRecipeBroken",
+      "type": "recipe",
+      "sortid": 773,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_recipe_broken"
+    },
+    {
+      "name": "LanternRecipeWindow",
+      "type": "recipe",
+      "sortid": 774,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_recipe_window"
+    },
+    {
+      "name": "LanternRecipeZen",
+      "type": "recipe",
+      "sortid": 775,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_recipe_zen"
+    },
+    {
+      "name": "SoulLanternRecipeBars",
+      "type": "recipe",
+      "sortid": 776,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_recipe_bars"
+    },
+    {
+      "name": "SoulLanternRecipeGilded",
+      "type": "recipe",
+      "sortid": 777,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_recipe_gilded"
+    },
+    {
+      "name": "SoulLanternRecipeWindow",
+      "type": "recipe",
+      "sortid": 778,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_recipe_window"
+    },
+    {
+      "name": "SoulLanternRecipeReversal",
+      "type": "recipe",
+      "sortid": 779,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_lantern_recipe_reversal"
+    },
+    {
+      "name": "LanternRecipeReversal",
+      "type": "recipe",
+      "sortid": 780,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lantern_recipe_reversal"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.carver.quartz_panel": "Block of Quartz",
       "block.carver.glowstone_jellybean": "Glowstone",
+      "block.carver.quartz_panel": "Block of Quartz",
       "block.carver.blackstone_array": "Blackstone",
       "block.carver.diorite_tiles": "Diorite",
       "block.carver.cobblestone_ornate": "Cobblestone",
@@ -6638,6 +7636,7 @@
       "block.carver.blackstone_small_bricks": "Blackstone",
       "block.carver.oak_plank_disarray_vertical": "Oak Wood Plank",
       "block.carver.quartz_cracked_bricks": "Block of Quartz",
+      "block.carver.lantern_window": "Lantern",
       "block.carver.glowstone_bricks": "Glowstone",
       "block.carver.diorite_array": "Diorite",
       "block.carver.andesite_wide_bricks": "Andesite",
@@ -6650,6 +7649,7 @@
       "block.carver.granite_array": "Granite",
       "block.carver.stone_small_bricks": "Stone",
       "block.carver.quartz_layer": "Block of Quartz",
+      "block.carver.lantern_gilded_hanging": "Lantern",
       "block.carver.stone_mosaic": "Stone",
       "block.carver.glowstone_ornate": "Glowstone",
       "block.carver.lapis_tile": "Lapis Lazuli Block",
@@ -6684,6 +7684,7 @@
       "block.carver.blackstone_zag": "Blackstone",
       "block.carver.granite_wide_bricks": "Granite",
       "block.carver.cobblestone_zag": "Cobblestone",
+      "block.carver.soul_lantern_gilded": "Soul Lantern",
       "block.carver.diorite_raw": "Diorite",
       "block.carver.stone_weathered_bricks": "Stone",
       "block.carver.quartz_circular": "Block of Quartz",
@@ -6696,6 +7697,8 @@
       "block.carver.granite_slanted": "Granite",
       "block.carver.granite_disordered_tiles": "Granite",
       "block.carver.quartz_tiles": "Block of Quartz",
+      "block.carver.lantern_bars": "Lantern",
+      "block.carver.lantern_window_hanging": "Lantern",
       "block.carver.cobblestone_marker": "Cobblestone",
       "block.carver.glowstone_wide_bricks": "Glowstone",
       "block.carver.oak_plank_uneven_vertical": "Oak Wood Plank",
@@ -6733,6 +7736,7 @@
       "block.carver.diorite_weathered_bricks": "Diorite",
       "block.carver.granite_large_tile": "Granite",
       "block.carver.glowstone_weathered_bricks": "Glowstone",
+      "block.carver.lantern_broken": "Lantern",
       "block.carver.andesite_french_1": "Andesite",
       "block.carver.basalt_zag": "Basalt",
       "block.carver.quartz_large_tile": "Block of Quartz",
@@ -6741,8 +7745,10 @@
       "block.carver.basalt_french_1": "Basalt",
       "block.carver.granite_dent": "Granite",
       "block.carver.basalt_french_2": "Basalt",
+      "block.carver.lantern_broken_hanging": "Lantern",
       "block.carver.granite_pillar": "Granite",
       "block.carver.glowstone_bismuth": "Glowstone",
+      "block.carver.soul_lantern_window": "Soul Lantern",
       "block.carver.basalt_raw": "Basalt",
       "block.carver.andesite_circular": "Andesite",
       "block.carver.granite_small_tiles": "Granite",
@@ -6751,6 +7757,7 @@
       "block.carver.endstone_dent": "End Stone",
       "block.carver.quartz_road": "Block of Quartz",
       "block.carver.andesite_zag": "Andesite",
+      "block.carver.lantern_gilded": "Lantern",
       "block.carver.endstone_panel": "End Stone",
       "block.carver.blackstone_disordered_tiles": "Blackstone",
       "block.carver.lapis_panel": "Lapis Lazuli Block",
@@ -6759,11 +7766,13 @@
       "block.carver.andesite_raw": "Andesite",
       "block.carver.diorite_mosaic": "Diorite",
       "block.carver.cobblestone_road": "Cobblestone",
+      "block.carver.soul_lantern_window_hanging": "Lantern",
       "block.carver.stone_poison": "Stone",
       "block.carver.glowstone_layer": "Glowstone",
       "block.carver.blackstone_cracked_bricks": "Blackstone",
       "block.carver.blackstone_encased_bricks": "Blackstone",
       "block.carver.cobblestone_french_1": "Cobblestone",
+      "block.carver.soul_lantern_bars_hanging": "Lantern",
       "block.carver.cobblestone_french_2": "Cobblestone",
       "block.carver.granite_ornate": "Granite",
       "block.carver.basalt_cracked_bricks": "Basalt",
@@ -6782,6 +7791,7 @@
       "block.carver.andesite_celtic": "Andesite",
       "block.carver.endstone_ornate": "End Stone",
       "block.carver.cobblestone_weaver": "Cobblestone",
+      "block.carver.soul_lantern_bars": "Soul Lantern",
       "block.carver.glowstone_braid": "Glowstone",
       "block.carver.lapis_gold_encrusted": "Lapis Lazuli Block",
       "block.carver.basalt_small_disordered_tiles": "Basalt",
@@ -6798,6 +7808,8 @@
       "block.carver.basalt_bricks": "Basalt",
       "block.carver.basalt_jellybean": "Basalt",
       "block.carver.stone_road": "Stone",
+      "block.carver.lantern_zen_hanging": "Lantern",
+      "block.carver.soul_lantern_gilded_hanging": "Lantern",
       "block.carver.cobblestone_layers": "Cobblestone",
       "block.carver.endstone_cracked": "End Stone",
       "block.carver.cobblestone_cuts": "Cobblestone",
@@ -6833,6 +7845,7 @@
       "block.carver.basalt_dent": "Basalt",
       "block.carver.andesite_slanted": "Andesite",
       "block.carver.basalt_small_bricks": "Basalt",
+      "block.carver.lantern_zen": "Lantern",
       "block.carver.oak_plank_braid": "Oak Wood Plank",
       "block.carver.endstone_layer": "End Stone",
       "block.carver.andesite_cracked": "Andesite",
@@ -6875,6 +7888,7 @@
       "block.carver.granite_cuts": "Granite",
       "block.carver.cobblestone_cracked_bricks": "Cobblestone",
       "block.carver.endstone_small_disordered_tiles": "End Stone",
+      "block.carver.lantern_bars_hanging": "Lantern",
       "block.carver.blackstone_slanted": "Blackstone",
       "block.carver.quartz_slanted": "Block of Quartz",
       "block.carver.blackstone_dent": "Blackstone",

@@ -1,0 +1,9 @@
+{
+  "parent": "carver:custom/lantern_window",
+  "textures": {
+    "all": "carver:blocks/lantern_window",
+    "particle": "carver:blocks/lantern_window",
+    "1": "carver:blocks/lantern_window",
+    "lantern": "carver:blocks/lantern_window"
+  }
+}
