@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/stone_tiles-large",
+    "up": "carver:blocks/stone_tiles-large",
+    "north": "carver:blocks/stone_tiles-large",
+    "east": "carver:blocks/stone_tiles-large",
+    "south": "carver:blocks/stone_tiles-large",
+    "west": "carver:blocks/stone_tiles-large",
+    "particle": "carver:blocks/stone_tiles-large"
+  }
+}

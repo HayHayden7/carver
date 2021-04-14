@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/stone_cuts",
+    "up": "carver:blocks/stone_cuts",
+    "north": "carver:blocks/stone_cuts",
+    "east": "carver:blocks/stone_cuts",
+    "south": "carver:blocks/stone_cuts",
+    "west": "carver:blocks/stone_cuts",
+    "particle": "carver:blocks/stone_cuts"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "carver:blocks/stone_chaotic-small",
+    "particle": "carver:blocks/stone_chaotic-small"
+  }
+}

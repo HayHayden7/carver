@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/stone_jellybean",
+    "up": "carver:blocks/stone_jellybean",
+    "north": "carver:blocks/stone_jellybean",
+    "east": "carver:blocks/stone_jellybean",
+    "south": "carver:blocks/stone_jellybean",
+    "west": "carver:blocks/stone_jellybean",
+    "particle": "carver:blocks/stone_jellybean"
+  }
+}

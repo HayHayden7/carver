@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/stone_bricks-encased",
+    "up": "carver:blocks/stone_bricks-encased",
+    "north": "carver:blocks/stone_bricks-encased",
+    "east": "carver:blocks/stone_bricks-encased",
+    "south": "carver:blocks/stone_bricks-encased",
+    "west": "carver:blocks/stone_bricks-encased",
+    "particle": "carver:blocks/stone_bricks-encased"
+  }
+}

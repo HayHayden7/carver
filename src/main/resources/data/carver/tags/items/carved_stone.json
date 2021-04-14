@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "carver:stone_array",
+    "carver:stone_braid",
+    "carver:stone_encased_bricks",
+    "carver:stone_small_bricks",
+    "carver:stone_weathered_bricks",
+    "carver:stone_wide_bricks",
+    "carver:stone_disordered_tiles",
+    "carver:stone_small_disordered_tiles",
+    "carver:stone_circular",
+    "carver:stone_cracked",
+    "carver:stone_dent",
+    "carver:stone_cuts",
+    "carver:stone_french_1",
+    "carver:stone_french_2",
+    "carver:stone_jellybean",
+    "carver:stone_ornate_large",
+    "carver:stone_layers",
+    "carver:stone_mosaic",
+    "carver:stone_ornate",
+    "carver:stone_panel",
+    "carver:stone_pillar",
+    "carver:stone_poison",
+    "carver:stone_prism",
+    "carver:stone_raw",
+    "carver:stone_road",
+    "carver:stone_slanted",
+    "carver:stone_tile_large",
+    "minecraft:stone"
+  ]
+}
