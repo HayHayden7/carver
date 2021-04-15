@@ -6,6 +6,8 @@
     "carver:lantern_broken",
     "carver:lantern_window",
     "carver:lantern_zen",
-    "minecraft:lantern"
+    "minecraft:lantern",
+    "carver:lantern_overgrown",
+    "carver:lantern_overgrown_hanging"
   ]
 }

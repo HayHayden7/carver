@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "carver:jackolantern_chill",
+    "carver:jackolantern_cute",
+    "carver:jackolantern_goofy",
+    "carver:jackolantern_odd",
+    "carver:jackolantern_scary",
+    "carver:jackolantern_sad",
+    "carver:jackolantern_serious",
+    "minecraft:jack_o_lantern"
+  ]
+}

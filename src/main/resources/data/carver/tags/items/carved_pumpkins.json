@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "carver:pumpkin_chill",
+    "carver:pumpkin_cute",
+    "carver:pumpkin_goofy",
+    "carver:pumpkin_odd",
+    "carver:pumpkin_sad",
+    "carver:pumpkin_scary",
+    "carver:pumpkin_serious",
+    "minecraft:carved_pumpkin"
+  ]
+}

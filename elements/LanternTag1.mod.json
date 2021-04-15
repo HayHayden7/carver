@@ -21,6 +21,12 @@
       },
       {
         "value": "Blocks.LANTERN"
+      },
+      {
+        "value": "CUSTOM:LanternOvergrown"
+      },
+      {
+        "value": "CUSTOM:LanternOvergrownHanging"
       }
     ],
     "blocks": [],

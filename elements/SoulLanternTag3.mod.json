@@ -15,6 +15,24 @@
       },
       {
         "value": "Blocks.SOUL_LANTERN"
+      },
+      {
+        "value": "CUSTOM:SoulLanternOvergrown"
+      },
+      {
+        "value": "CUSTOM:SoulLanternOvergrownHanging"
+      },
+      {
+        "value": "CUSTOM:SoulLanternZen"
+      },
+      {
+        "value": "CUSTOM:SoulLanternZenHanging"
+      },
+      {
+        "value": "CUSTOM:SoulLanternCursedFlames"
+      },
+      {
+        "value": "CUSTOM:SoulLanternCursedFlamesHanging"
       }
     ],
     "blocks": [],

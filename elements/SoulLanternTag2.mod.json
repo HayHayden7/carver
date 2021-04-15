@@ -22,11 +22,29 @@
       },
       {
         "value": "CUSTOM:SoulLanternWindowHanging"
+      },
+      {
+        "value": "CUSTOM:SoulLanternOvergrown"
+      },
+      {
+        "value": "CUSTOM:SoulLanternOvergrownHanging"
+      },
+      {
+        "value": "CUSTOM:SoulLanternZen"
+      },
+      {
+        "value": "CUSTOM:SoulLanternZenHanging"
+      },
+      {
+        "value": "CUSTOM:SoulLanternCursedFlames"
+      },
+      {
+        "value": "CUSTOM:SoulLanternCursedFlamesHanging"
       }
     ],
     "functions": [],
     "entities": [],
-    "name": "piglin_reppelents",
+    "name": "piglin_repellents",
     "namespace": "minecraft"
   }
 }

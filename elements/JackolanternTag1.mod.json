@@ -1,0 +1,38 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:JackolanternChill"
+      },
+      {
+        "value": "CUSTOM:JackolanternCute"
+      },
+      {
+        "value": "CUSTOM:JackolanternGoofy"
+      },
+      {
+        "value": "CUSTOM:JackolanternOdd"
+      },
+      {
+        "value": "CUSTOM:JackolanternScary"
+      },
+      {
+        "value": "CUSTOM:JackolanternSad"
+      },
+      {
+        "value": "CUSTOM:JackolanternSerious"
+      },
+      {
+        "value": "Blocks.LIT_PUMPKIN"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_jackolantern",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "carver:block/pumpkin_serious"
+    },
+    "facing=east": {
+      "model": "carver:block/pumpkin_serious",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "carver:block/pumpkin_serious",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "carver:block/pumpkin_serious",
+      "y": 270
+    }
+  }
+}

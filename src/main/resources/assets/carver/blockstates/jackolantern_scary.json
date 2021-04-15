@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "carver:block/jackolantern_scary"
+    },
+    "facing=east": {
+      "model": "carver:block/jackolantern_scary",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "carver:block/jackolantern_scary",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "carver:block/jackolantern_scary",
+      "y": 270
+    }
+  }
+}

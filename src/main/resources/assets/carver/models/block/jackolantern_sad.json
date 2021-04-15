@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/pumpkin_side",
+    "up": "carver:blocks/pumpkin_top",
+    "north": "carver:blocks/jack_o_lantern_sad",
+    "east": "carver:blocks/pumpkin_side",
+    "south": "carver:blocks/pumpkin_side",
+    "west": "carver:blocks/pumpkin_side",
+    "particle": "carver:blocks/pumpkin_side"
+  }
+}

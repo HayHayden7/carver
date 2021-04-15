@@ -1,0 +1,9 @@
+{
+  "parent": "carver:custom/hanging_soul_lantern_overgrown",
+  "textures": {
+    "all": "carver:blocks/soul_lantern_overgrown",
+    "particle": "carver:blocks/soul_lantern_overgrown",
+    "2": "carver:blocks/soul_lantern_overgrown",
+    "lantern": "carver:blocks/soul_lantern_overgrown"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "soul_lantern_cursed_flames",
+        "lantern": "soul_lantern_cursed_flames"
+      },
+      "name": "default"
+    }
+  }
+}

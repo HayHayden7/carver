@@ -1,0 +1,38 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:PumpkinChill"
+      },
+      {
+        "value": "CUSTOM:PumpkinCute"
+      },
+      {
+        "value": "CUSTOM:PumpkinGoofy"
+      },
+      {
+        "value": "CUSTOM:PumpkinOdd"
+      },
+      {
+        "value": "CUSTOM:PumpkinSad"
+      },
+      {
+        "value": "CUSTOM:PumpkinScary"
+      },
+      {
+        "value": "CUSTOM:PumpkinSerious"
+      },
+      {
+        "value": "Blocks.CARVED_PUMPKIN"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_pumpkins",
+    "namespace": "mod"
+  }
+}

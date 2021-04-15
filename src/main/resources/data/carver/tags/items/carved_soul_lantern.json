@@ -4,6 +4,12 @@
     "carver:soul_lantern_bars",
     "carver:soul_lantern_gilded",
     "carver:soul_lantern_window",
-    "minecraft:soul_lantern"
+    "minecraft:soul_lantern",
+    "carver:soul_lantern_overgrown",
+    "carver:soul_lantern_overgrown_hanging",
+    "carver:soul_lantern_zen",
+    "carver:soul_lantern_zen_hanging",
+    "carver:soul_lantern_cursed_flames",
+    "carver:soul_lantern_cursed_flames_hanging"
   ]
 }

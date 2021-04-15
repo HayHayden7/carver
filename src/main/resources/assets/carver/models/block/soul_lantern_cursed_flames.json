@@ -1,0 +1,9 @@
+{
+  "parent": "carver:custom/soul_lantern_greek_fire",
+  "textures": {
+    "all": "carver:blocks/soul_lantern_cursed_flames",
+    "particle": "carver:blocks/soul_lantern_cursed_flames",
+    "1": "carver:blocks/soul_lantern_cursed_flames",
+    "lantern": "carver:blocks/soul_lantern_cursed_flames"
+  }
+}

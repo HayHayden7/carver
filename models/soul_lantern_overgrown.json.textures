@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "soul_lantern_overgrown",
+        "lantern": "soul_lantern_overgrown"
+      },
+      "name": "default"
+    }
+  }
+}
