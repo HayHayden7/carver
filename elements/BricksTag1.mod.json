@@ -1,0 +1,116 @@
+{
+  "_fv": 17,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BricksArray"
+      },
+      {
+        "value": "CUSTOM:BricksBraid"
+      },
+      {
+        "value": "CUSTOM:BricksTrodden"
+      },
+      {
+        "value": "CUSTOM:BricksCrackedBricks"
+      },
+      {
+        "value": "CUSTOM:BricksEncased"
+      },
+      {
+        "value": "CUSTOM:BricksSmallBricks"
+      },
+      {
+        "value": "CUSTOM:BricksBricks"
+      },
+      {
+        "value": "CUSTOM:BricksWeatheredBricks"
+      },
+      {
+        "value": "CUSTOM:BricksWideBricks"
+      },
+      {
+        "value": "CUSTOM:BricksDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:BricksSmallDisorderedTiles"
+      },
+      {
+        "value": "CUSTOM:BricksCircular"
+      },
+      {
+        "value": "CUSTOM:BricksCracked"
+      },
+      {
+        "value": "CUSTOM:BricksCuts"
+      },
+      {
+        "value": "CUSTOM:BricksDent"
+      },
+      {
+        "value": "CUSTOM:BricksFrench1"
+      },
+      {
+        "value": "CUSTOM:BricksFrench2"
+      },
+      {
+        "value": "CUSTOM:BricksJellybean"
+      },
+      {
+        "value": "CUSTOM:BricksLayer"
+      },
+      {
+        "value": "CUSTOM:BricksMosaic"
+      },
+      {
+        "value": "CUSTOM:BricksOrnate"
+      },
+      {
+        "value": "CUSTOM:BricksPanel"
+      },
+      {
+        "value": "CUSTOM:BricksPillar"
+      },
+      {
+        "value": "CUSTOM:BricksPrism"
+      },
+      {
+        "value": "CUSTOM:BricksRaw"
+      },
+      {
+        "value": "CUSTOM:BricksRoad"
+      },
+      {
+        "value": "CUSTOM:BricksSlanted"
+      },
+      {
+        "value": "CUSTOM:BricksLargeTile"
+      },
+      {
+        "value": "CUSTOM:BricksTiles"
+      },
+      {
+        "value": "CUSTOM:BricksSmallTiles"
+      },
+      {
+        "value": "CUSTOM:BricksTwisted"
+      },
+      {
+        "value": "CUSTOM:BricksCeltic"
+      },
+      {
+        "value": "CUSTOM:BricksZag"
+      },
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "carved_bricks",
+    "namespace": "mod"
+  }
+}

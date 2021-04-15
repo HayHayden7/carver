@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/bricks_dent",
+    "up": "carver:blocks/bricks_dent",
+    "north": "carver:blocks/bricks_dent",
+    "east": "carver:blocks/bricks_dent",
+    "south": "carver:blocks/bricks_dent",
+    "west": "carver:blocks/bricks_dent",
+    "particle": "carver:blocks/bricks_dent"
+  }
+}

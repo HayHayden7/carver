@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/bricks_twisted-top",
+    "up": "carver:blocks/bricks_twisted-top",
+    "north": "carver:blocks/bricks_twisted-side",
+    "east": "carver:blocks/bricks_twisted-side",
+    "south": "carver:blocks/bricks_twisted-side",
+    "west": "carver:blocks/bricks_twisted-side",
+    "particle": "carver:blocks/bricks_twisted-top"
+  }
+}

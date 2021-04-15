@@ -4,7 +4,7 @@
   "definition": {
     "name": "Carver",
     "icon": {
-      "value": "Blocks.STONECUTTER"
+      "value": "CUSTOM:SawItem"
     },
     "showSearch": true
   }
