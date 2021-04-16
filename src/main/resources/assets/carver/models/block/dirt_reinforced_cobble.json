@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "carver:blocks/dirt_reinforcedcobbledirt",
+    "up": "carver:blocks/dirt_reinforcedcobbledirt",
+    "north": "carver:blocks/dirt_reinforcedcobbledirt",
+    "east": "carver:blocks/dirt_reinforcedcobbledirt",
+    "south": "carver:blocks/dirt_reinforcedcobbledirt",
+    "west": "carver:blocks/dirt_reinforcedcobbledirt",
+    "particle": "carver:blocks/dirt_reinforcedcobbledirt"
+  }
+}
