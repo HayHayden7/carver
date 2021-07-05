@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/lapis_masonry",
-    "particle": "carver:blocks/lapis_masonry"
-  }
-}

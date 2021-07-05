@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/glowstone_tiles-large-bismuth",
-    "particle": "carver:blocks/glowstone_tiles-large-bismuth"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/basalt_weathered_bricks",
-    "particle": "carver:blocks/basalt_weathered_bricks"
-  }
-}

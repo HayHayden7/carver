@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/dirt_netherbricks",
-    "particle": "carver:blocks/dirt_netherbricks"
-  }
-}

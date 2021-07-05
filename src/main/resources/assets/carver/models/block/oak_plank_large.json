@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/oakplank_large",
-    "particle": "carver:blocks/oakplank_large"
-  }
-}

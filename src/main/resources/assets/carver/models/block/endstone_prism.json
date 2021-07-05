@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/endstone_prism",
-    "particle": "carver:blocks/endstone_prism"
-  }
-}

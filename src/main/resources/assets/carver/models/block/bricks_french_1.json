@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/bricks_french-1",
-    "particle": "carver:blocks/bricks_french-1"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/cobblestone_ornate",
-    "particle": "carver:blocks/cobblestone_ornate"
-  }
-}

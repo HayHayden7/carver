@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/glowstone_bricks-triple",
-    "particle": "carver:blocks/glowstone_bricks-triple"
-  }
-}

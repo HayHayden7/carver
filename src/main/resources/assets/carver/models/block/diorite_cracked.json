@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "carver:blocks/diorite_cracked",
-    "particle": "carver:blocks/diorite_cracked"
-  }
-}
